@@ -1,0 +1,44 @@
+# Vishaal Mehta
+# Security Questions
+# All participants have agreed to giving their opinions in this survey and permission was granted. 
+
+What is the liklihood that you as the user will forget the answer to your own security questions if you don't write them down?
+
+* Most people answered: I don't know, I guess I would just reset my security questions. 
+
+What would be the best security question?
+
+* What is my favorite car?
+
+* What is my pet's name?
+
+* What is my mother's maiden name?
+
+What is the liklihood of a good attempt to a security question by just guessing
+
+* Most people said around 30-40%
+
+How easy is it to find security questions online?
+
+* Most people said around 50% as well as depends on the person and if they decide to put an answer not related to the sercurity question. 
+
+What is the liklihood that people will write down the answers to their security questions?
+
+* Around 60% of people will write down the answers to the security questions.
+
+If family members type in the answer to the user's security questions without having to look them up online, will this create vulnerbilites?
+
+* Most users replied with yes it can create a vulnerbility because the information can still be shared to other people around the world. 
+
+How often do people give fake answers to questions and will this make it easier or harder to answer?
+
+* Most people answered that around 50% of users may give fake answers and can make it harder to answer. 
+
+Conclussion: After interviwing individuals on security questions, I was able to find some of the answers online. The questions I was able to look up were: 
+
+* What is your mother's maiden name?  #The user didn't believe I could look this question up.
+
+* In what city was your father born?  #The user didn't believe I could look this question up.
+
+* What was your middle school's mascot?
+
