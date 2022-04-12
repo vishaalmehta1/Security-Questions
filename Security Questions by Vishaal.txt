@@ -42,3 +42,6 @@ Conclussion: After interviwing individuals on security questions, I was able to 
 
 * What was your middle school's mascot?
 
+* About 89% of people said that the answer to this question can be looked up.
+
+Note: At the end of this project, I learned that nothing is 100% secure, and answering a security question with a false answer that can't be tracked back to the user's true identity is the safest way. 
